@@ -15,6 +15,8 @@ npm install
 - `clients_attributes.json`
 - `clients_stats.json`
 
+A sample file can be downloaded, [here](https://drive.google.com/file/d/1smA95oguva15Eull2g5bbhbY-_ol4AdD/view?usp=drive_link).
+
 3. Start the development server:
 ```bash
 npm start
